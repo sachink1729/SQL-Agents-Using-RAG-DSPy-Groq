@@ -12,7 +12,7 @@ $ cd SQL-Agents-Using-RAG-DSPy-Groq
 
 ### Usage
 
-Run the notebook to see the Multi-Hop CoT with RAG in action:
+Run the notebook:
 ```bash
 $ jupyter notebook SQL Agents using DSPy and Groq.ipynb
 ```
