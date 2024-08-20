@@ -8,6 +8,7 @@ Clone the repository and install the dependencies:
 ```bash
 $ git clone https://github.com/sachink1729/SQL-Agents-Using-RAG-DSPy-Groq.git
 $ cd SQL-Agents-Using-RAG-DSPy-Groq
+$ pip install -r requirements.txt
 ```
 
 ### Usage
